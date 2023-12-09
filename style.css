@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
 body {
   height: 100vh;
   display: flex;
@@ -40,7 +40,7 @@ body {
 }
 
 img {
-  max-height: 500px;
+  max-height: 600px;
   width: 100%;
   user-select: none;
 }
@@ -60,7 +60,8 @@ img {
 }
 
 p {
-  font-family: 'Zeyada';
+  /* font-family: 'Zeyada'; */
+  font-family: 'La Belle Aurore', cursive;
   font-size: 70px;
   color: rgb(0,0,100);
   opacity: 0.75;
